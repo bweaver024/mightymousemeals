@@ -1,1 +1,1 @@
-# mightymousemeals.com
+# mightymousemeals.github.io
